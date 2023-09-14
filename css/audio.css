@@ -1,0 +1,48 @@
+.container {
+    border: 2px solid black;
+    margin: 70px 80px;
+    padding: 1px 50px;
+    width: 80%;
+    border-radius: 28px;
+}
+
+.container h1{
+    color: purple;
+    font-size: 50px;
+}
+
+.container img {
+    height: 500px;
+    width: 700px;
+    margin: 30px 200px;
+    padding: 1px 50px;
+}
+
+.container h1 {
+    color: purple;
+    font-size: 40px;
+    text-align: center;
+}
+
+.container h3 {
+    color: black;
+}
+
+.media {
+    margin: 60px 380px;
+    padding: 1px 50px;
+    width: 30%;
+    border-radius: 28px;
+
+}
+.media dl img {
+    height: 50px;
+    width: 70px;
+    margin: 0px 0px;
+    padding: 1px 50px;
+}
+
+.media dl h4{
+    color: black;
+
+}

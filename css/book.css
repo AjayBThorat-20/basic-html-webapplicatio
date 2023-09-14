@@ -1,0 +1,22 @@
+book
+{
+    background: #009FFF;
+    background: linear-gradient(to right,#40e0d0,#ff8c00, #db3e8d);
+    
+}
+b
+{
+ margin: 70px 80px;
+ font-size: 40px;
+display:block; 
+color: black;
+
+}
+Name
+{
+font-size:25px;
+display:block;
+color: white;
+margin-left: 50px;
+}
+

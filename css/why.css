@@ -1,0 +1,45 @@
+/* CSS about */
+
+
+.container {
+    border: 2px solid black;
+    margin: 70px 295px;
+    padding: 1px 50px;
+    width: 50%;
+    border-radius: 28px;
+}
+
+.form-group input {
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+    display: block;
+    width: 379px;
+    padding: 1px;
+    border: 2px solid black;
+    margin: 11px auto;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.row-text h2 {
+    color: green;
+    font-size: 40px;
+    text-align: center;
+}
+
+.row-text p {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+button{
+    font-family: 'Baloo Bhai', cursive;
+    margin: 4px 9px;
+    background-color: black;
+    color: white;
+    padding: 4px 14px;
+    border: 2px solid rgb(242, 246, 247);
+    border-radius: 10px;
+    font-size: 25px;
+    cursor: pointer;
+}

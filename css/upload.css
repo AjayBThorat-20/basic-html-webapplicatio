@@ -1,0 +1,49 @@
+.container {
+    border: 2px solid black;
+    margin: 70px 405px;
+    padding: 1px 50px;
+    width: 33%;
+    border-radius: 28px;
+}
+
+.container h1 {
+    color: purple;
+    font-size: 40px;
+    text-align: center;
+}
+
+.container img {
+    height: 300px;
+    width: 500px;
+
+}
+
+.container h5 {
+    font-size: 20px;
+    color: midnightblue;
+    text-align: center;
+}
+
+.container a {
+    text-align: center;
+}
+
+.control label {
+    font-size: 20px;
+    color: white;
+}
+
+.control textarea {
+    width: 100%;
+    height: 100%;
+}
+
+#upload-button {
+    font-family: 'Baloo Bhai', cursive;
+    margin: 4px 9px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    cursor: pointer;
+}

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "equi.xsl" ?>
+
+
+<equi>
+    <number no="1">
+        <name>Microphones</name>
+        <purpose>diffrent variety Microphones required</purpose>
+    </number>
+    <number no="2">
+        <name>Cables</name>
+        <purpose>long, short, and several extras</purpose>
+    </number>
+    <number no="3">
+        <name>Long Power Cable and 
+            Two Power Strips</name>
+        <purpose>just in case you have access</purpose>
+    </number>
+    <number no="4">
+        <name>Batteries and 
+            Extra Batteries</name>
+        <purpose>for all your devices (Lithium batteries are great for extended duration.)</purpose>
+    </number>
+    <number no="5">
+        <name>Boom Mic Stand(s)</name>
+        <purpose>a mic stand is essential if you want to activate a sound source using 
+            both hands and it can also act as a make-shift Boom pole if needed.</purpose>
+    </number>
+    <number no="6">
+        <name>Sound Activators and 
+            Exciters</name>
+        <purpose>these can be drum sticks, mallets, bows, metal rods 
+            – anything that can be used to start an object vibrating.</purpose>
+    </number>
+    <number no="7">
+        <name>Gaffers Tape</name>
+        <purpose>it’s great to have professional quality tape of various widths</purpose>
+    </number>
+    <number no="8">
+        <name>Clamps</name>
+        <purpose>various size spring clamps are great for securing a mic on an object if 
+            needed</purpose>
+    </number>
+    <number no="9">
+        <name>Zeppelin and/
+            or Fuzzy</name>
+        <purpose>this is essential to capture sounds without wind noise, which can ruin a 
+            recording</purpose>
+    </number>
+    <number no="10">
+        <name>Portable Digital Recorder/
+            Field Mixerl</name>
+        <purpose>there are several of these available in a wide range of prices — more on 
+            this later</purpose>
+    </number>
+    <number no="11">
+        <name>Laptop Computer and 
+            Audio Interface</name>
+        <purpose>even if you are using a portable recording device, it would be good to
+             periodically check your recordings to make sure nothing unexpected is 
+             happening — you may not get a second chance</purpose>
+    </number>
+    <number no="12">
+        <name>Portable Hard Drive</name>
+        <purpose>to back up the recordings</purpose>
+    </number>
+    <number no="13">
+        <name>Circumaural Headphones</name>
+        <purpose>this is the only way to monitor what’s being recorded so be sure to use 
+            a decent pair of studio-quality phonesnap</purpose>
+    </number>
+    <number no="14">
+        <name>SD Cards and 
+            Extra SD Cards</name>
+        <purpose>while you can get a card that will record hours at a high sample rate and 
+            bit resolution, they can become corrupted, making the data inaccessible — so
+             always have at least one extra.</purpose>
+    </number>
+    <number no="15">
+        <name>Clearance Release
+             Forms</name>
+        <purpose>these can be useful to get legal permission to use the sound of a person 
+            you might intentionally or inadvertently record</purpose>
+    </number>
+    <number no="16">
+        <name>Notebook and writing 
+            implement</name>
+        <purpose>it is useful to document the place where something is recorded, the equipment
+             and settings used, and anything that is particular to that sound</purpose>
+    </number>
+    <number no="17">
+        <name>Camera</name>
+        <purpose>taking pictures of a particular recording setup is useful for recalling how a 
+            sound was recorded should you choose to replicate the situation in the future</purpose>
+    </number>
+    <number no="18">
+        <name>Instruments</name>
+        <purpose> it might be nice to hear what your trumpet sounds like in a tunnel or canyon</purpose>
+    </number>
+
+</equi>

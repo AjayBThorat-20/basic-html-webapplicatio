@@ -1,0 +1,84 @@
+
+
+
+.header {
+    min-height: 60vh;
+    /*background: #009FFF;
+    background: linear-gradient(to right, #ec2F4B, #009FFF);*/
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.details {
+    text-align: center;
+}
+
+
+.profile-pic {
+    margin-top: 90px;
+    height: 12rem;
+    width: 12rem;
+    object-fit: center;
+    border-radius: 50%;
+    border: 2px solid #fff;
+}
+
+.location p {
+    display: inline-block;
+}
+
+.location svg {
+    vertical-align: middle;
+}
+
+.stats {
+    display: flex;
+}
+
+.stats .col-4 {
+    margin: 0px auto;
+    text-align: center;
+}
+
+.heading {
+    font-weight: 400;
+    font-size: 2.3rem;
+    margin: 1rem 0;
+}
+
+
+
+.form-group label {
+    font-family: 'Baloo Bhai', cursive;
+    color: rgb(3, 3, 3);
+    width: 270px;
+    padding: 1px;
+    margin: 4px 0px;
+    font-size: 25px;
+}
+
+.form-group input {
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+    display: block;
+    width: 350px;
+    padding: 1px;
+    border: 2px solid black;
+    margin: 4px 550px;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+.btn input{
+    font-family: 'Baloo Bhai', cursive;
+    margin: 4px 9px;
+    background-color: black;
+    color: white;
+    padding: 4px 14px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-size: 25px;
+    cursor: pointer;
+}

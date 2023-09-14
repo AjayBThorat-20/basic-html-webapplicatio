@@ -1,0 +1,32 @@
+
+    .container {
+        border: 2px solid black;
+        margin: 70px 80px;
+        padding: 1px 50px;
+        width: 80%;
+        border-radius: 28px;
+    }
+
+    .container h1 {
+        color: rgb(83, 34, 218);
+        font-size: 50px;
+        text-align: center;
+    }
+
+
+    .text {
+        color: darkgreen;
+        margin: 0px 210px;
+        padding: 10px 0px;
+        width: 47%;
+    }
+
+    .from-img p {
+        color: black;
+    }
+
+    .from-img img {
+        height: 300px;
+        width: 500px;
+    }
+

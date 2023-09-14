@@ -1,0 +1,35 @@
+.container {
+    border: 2px solid black;
+    margin: 70px 80px;
+    padding: 1px 50px;
+    width: 80%;
+    border-radius: 28px;
+}
+
+.container h1 {
+    color: purple;
+    font-size: 40px;
+    text-align: center;
+}
+
+.container img {
+    height: 279px;
+    width: 220px;
+    margin: 23px 83px
+}
+
+.container h3 {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.container h5 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.team-row{
+    margin: 0px 90px;
+}
